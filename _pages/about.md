@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from [School of ICSE](https://icse.uestc.edu.cn/), [UESTC](https://uestc.edu.cn/). My research interest includes computer vision, digital circuit design, deep learning, and spiking neuro network.
-
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently pursuing a Ph.D. in Medical Informatics at Fudan University, after obtaining my B.S. from Harbin Institute of Technology. My research at the intersection of AI and medicine centers on developing novel deep learning algorithms for medical image segmentation and multimodal prognosis. I have hands-on experience in adapting large vision-language models (e.g., CLIP, SAM) for clinical applications, with relevant first-author research published in top-tier journals like IEEE TMI.
 
 A data-driven personal website
 ======
