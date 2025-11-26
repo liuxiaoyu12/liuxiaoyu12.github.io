@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "PHOTO.jpg"
   name             : "Liu xiaoyu"
-  pronouns         : "she"  
-  bio              : "Short biography for the left-hand sidebar"
+  # pronouns         : "she"  
+  bio              : "Fudan Ph.D. Candidate"
   location         : "Shanghai"
   employer         : "Fudan University"
   uri              : # URL
