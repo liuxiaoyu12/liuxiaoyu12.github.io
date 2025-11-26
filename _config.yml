@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "个人照.jpg"
   name             : "Liu xiaoyu"
-  pronouns         : # example: "she/her"  
+  pronouns         : "she"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Shanghai"
   employer         : "Fudan University"
