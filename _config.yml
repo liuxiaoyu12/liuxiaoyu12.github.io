@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "个人照.jpg"
+  avatar           : "PHOTO.jpg"
   name             : "Liu xiaoyu"
   pronouns         : "she"  
   bio              : "Short biography for the left-hand sidebar"
